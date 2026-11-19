@@ -44,3 +44,58 @@ python player_h265.py
 ## Licença
 
 Licença foi atribuida a esse projeto de código aberto, sendo assim permitido a reutilização do código por outras pessoas.
+
+
+
+-------
+-------
+
+
+## English
+
+# H.265 Player
+
+A Windows player for H.265/HEVC recordings from security cameras and DVRs. It also opens common formats such as MP4, MKV, MOV, TS, and AVI.
+
+## Features
+
+- Plays `.h265`, `.hevc`, `.265`, and `.bin` recordings from cameras and DVRs.
+- Also opens `.mp4`, `.mkv`, `.mov`, `.ts`, `.m2ts`, `.avi`, and `.webm` videos.
+- Controls for pausing, seeking, adjusting the volume, and switching to full screen.
+- Prepares raw H.265 streams in a Matroska container before playback. The video is reorganized without re-encoding.
+- Converts G.711 A-law audio in compatible recordings to PCM during preparation.
+
+## Installation
+
+1. Download `Instalador_Player_H265.exe` from the **Releases** section.
+2. Run the installer and choose whether to create shortcuts.
+3. Open H.265 Player from the Start Menu or Desktop.
+
+The provided installer is not digitally signed, so Windows may display a security warning when you open it.
+
+## Running from source with Python
+
+If you prefer to use Python instead of the `.exe`, you can run the source code.
+
+`player_h265.py` runs with Python 3.8 or later. Running it directly requires 64-bit VLC and the `python-vlc` package:
+
+```powershell
+pip install python-vlc
+python player_h265.py
+```
+
+## Files in this repository
+
+- `player_h265.py` — Python source code.
+- `Instalador_Player_H265.exe` — Windows installer for end users.
+- `SHA256SUMS.txt` — SHA-256 hash of the installer.
+
+<img width="1067" height="691" alt="1" src="https://github.com/user-attachments/assets/3485afa5-7c2b-4804-9334-ac6163326f4f" />
+
+<img width="1046" height="677" alt="2" src="https://github.com/user-attachments/assets/dcfc7f96-e715-4e5d-ad3d-ab7760f7de4b" />
+
+<img width="1248" height="681" alt="3" src="https://github.com/user-attachments/assets/8a86bbbc-0ad1-41ed-bb17-4f373e424667" />
+
+## License
+
+A license has been assigned to this open-source project, allowing others to reuse the code.
