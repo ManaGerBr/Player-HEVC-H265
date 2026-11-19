@@ -31,7 +31,6 @@ python player_h265.py
 
 - `player_h265.py` — código-fonte Python fornecido.
 - `Instalador_Player_H265.exe` — instalador Windows para usuários finais.
-- `DESCRICAO_GITHUB.txt` — texto curto para o campo “About” do repositório.
 - `SHA256SUMS.txt` — hash SHA-256 do instalador.
 
 ## Licença
