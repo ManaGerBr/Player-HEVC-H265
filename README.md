@@ -43,4 +43,4 @@ python player_h265.py
 
 ## Licença
 
-Licença foi atribuida a esse projeto de código aberto,sendo assim permitido a reutilização do código por outras pessoas.
+Licença foi atribuida a esse projeto de código aberto, sendo assim permitido a reutilização do código por outras pessoas.
