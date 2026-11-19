@@ -33,6 +33,14 @@ python player_h265.py
 - `Instalador_Player_H265.exe` — instalador Windows para usuários finais.
 - `SHA256SUMS.txt` — hash SHA-256 do instalador.
 
+- <img width="1067" height="691" alt="1" src="https://github.com/user-attachments/assets/3485afa5-7c2b-4804-9334-ac6163326f4f" />
+
+<img width="1046" height="677" alt="2" src="https://github.com/user-attachments/assets/dcfc7f96-e715-4e5d-ad3d-ab7760f7de4b" />
+
+<img width="1248" height="681" alt="3" src="https://github.com/user-attachments/assets/8a86bbbc-0ad1-41ed-bb17-4f373e424667" />
+
+
+
 ## Licença
 
 Nenhuma licença foi informada para este projeto. Antes de aceitar contribuições ou permitir reutilização do código, adicione uma licença escolhida pelo autor.
