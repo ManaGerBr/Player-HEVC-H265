@@ -18,7 +18,7 @@ Player para Windows voltado a gravações H.265/HEVC de câmeras de segurança e
 
 O instalador fornecido não está assinado digitalmente; o Windows pode mostrar um aviso de segurança ao abri-lo.
 
-## Executar pelo código-fonte
+## Caso prefira o python ao invés do .exe você pode executalo pelo código-fonte
 
 O arquivo `player_h265.py` pode ser executado com Python 3.8 ou superior. A execução direta requer VLC de 64 bits e o pacote `python-vlc`:
 
